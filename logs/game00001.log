@@ -1,0 +1,30 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 1
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 27 19:01:32 EDT 2016
+# Player 1: Player-0, 'RandomHusPlayer', running on 192.168.0.100
+# Player 2: Player-1, '260351181', running on 192.168.0.100
+START Player-0 RandomHusPlayer
+START Player-1 260351181
+PIT 0 2
+PIT 1 23
+PIT 0 18
+PIT 1 18
+PIT 0 20
+PIT 1 15
+PIT 0 0
+PIT 1 7
+PIT 0 23
+PIT 1 28
+PIT 0 8
+PIT 1 21
+PIT 0 1
+PIT 1 24
+PIT 0 2
+PIT 1 26
+PIT 0 3
+PIT 1 10
+GAMEOVER WINNER 1
+# Game ended: Wed Apr 27 19:01:48 EDT 2016
