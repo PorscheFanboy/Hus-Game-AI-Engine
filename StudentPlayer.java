@@ -102,7 +102,6 @@ public class StudentPlayer extends HusPlayer {
                     tupleStateMoveValue tsmv = new tupleStateMoveValue(cloned_board_state, hm, ev);
                     queue.add(tsmv);
                 }
-//              double count = 1.0;
                 while(!queue.isEmpty()) {
                     tupleStateMoveValue tsmv = queue.remove();
                     int result = AlphaBeta(tsmv.aState, depth - 1, alpha, beta, resultStorage, turn, originalDepth);
