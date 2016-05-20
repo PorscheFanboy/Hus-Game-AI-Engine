@@ -82,89 +82,17 @@ public class AlphaBetaOriginal extends HusPlayer {
     public HusMove chooseMove(HusBoardState board_state)
     {
     	
-        // Get the contents of the pits so we can use it to make decisions.
-        int[][] pits = board_state.getPits();
-
-        // Use ``player_id`` and ``opponent_id`` to get my pits and opponent pits.
-        int[] my_pits = pits[player_id];
-        int[] op_pits = pits[opponent_id];
-        
-
-        // Use code stored in ``mytools`` package.
-        MyTools.getSomething();
         
         int turn = board_state.getTurnPlayer();
         
-        
-        
         HusMove storedMove = board_state.getLegalMoves().get(0);
         final HusMove[] resultStore = {storedMove};
-        
-        
-        
         
         AlphaBeta(board_state, original_depth, -1000, 1000, resultStore, turn);
         
         return resultStore[0];
     }
     
-
-    
-    
-    public static void main(String args[]) {
-    	AlphaBetaOriginal Jianhua = new AlphaBetaOriginal();
-    	HusBoardState hus = new HusBoardState();
-    	HusMove amov = new HusMove(6, 0);
-    	hus.move(amov);
-    	HusMove mov1 = new HusMove(22, 1);
-		hus.move(mov1);
-		HusMove mov2 = new HusMove(05, 0);
-		hus.move(mov2);
-    	HusMove mov = Jianhua.chooseMove(hus);
-    	System.out.println(mov.toPrettyString());
-    	
-    	
-    	
-    	
-    	
-//		HusMove mov = new HusMove(9, 0);
-//		hus.move(mov);
-//		HusMove mov1 = new HusMove(21, 1);
-//		hus.move(mov1);
-//		HusMove mov2 = new HusMove(19, 0);
-//		hus.move(mov2);
-//		System.out.println(hus.toString());
-//    	HusMove mov3 = Jianhua.chooseMove(hus);
-//    	System.out.println("movv " + mov3.toPrettyString());
-//    	hus.move(mov3);
-//    	HusMove mov4 = Jianhua.chooseMove(hus);
-//    	System.out.println("movv " + mov4.toPrettyString());
-//    	hus.move(mov4);
-//    	HusMove mov5 = Jianhua.chooseMove(hus);
-//    	System.out.println("ASDF");
-//    	ArrayList<HusMove> moves = hus.getLegalMoves();
-//    	for(HusMove i : moves) {
-//    		System.out.println(i.toPrettyString());
-//    	}
-//    	System.out.println("qwer");
-//    	System.out.println("movv " + mov5.toPrettyString());
-//    	hus.move(mov5);
-//    	
-//    	HusMove mov6 = Jianhua.chooseMove(hus);
-//    	System.out.println("ASDF");
-//    	ArrayList<HusMove> movs = hus.getLegalMoves();
-//    	for(HusMove i : movs) {
-//    		System.out.println(i.toPrettyString());
-//    	}
-//    	System.out.println("qwer");
-//    	hus.move(mov6);
-//    	System.out.println("movv " + mov6.toPrettyString());
-//    	HusMove mov7 = Jianhua.chooseMove(hus);
-//    	hus.move(mov7);
-//    	System.out.println("movv " + mov7.toPrettyString());
-    	
-    	
-    }
 }
 
 

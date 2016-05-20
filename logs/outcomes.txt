@@ -1,0 +1,4 @@
+1,AlphaBetaOriginal,AlphaBetaOptimized,1,AlphaBetaOptimized,24,game00001.log,
+2,AlphaBetaOptimized,AlphaBetaOriginal,0,AlphaBetaOptimized,33,game00002.log,
+3,AlphaBetaOriginal,AlphaBetaOptimized,1,AlphaBetaOptimized,54,game00003.log,
+4,AlphaBetaOptimized,AlphaBetaOriginal,0,AlphaBetaOptimized,39,game00004.log,

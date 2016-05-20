@@ -85,45 +85,6 @@ public class MiniMax extends HusPlayer {
         return resultStore[0];
     }
     
-    public static void main(String args[]) {
-        StudentPlayer2 Jianhua = new StudentPlayer2();
-        HusBoardState hus = new HusBoardState();
-        HusMove amov = new HusMove(6, 0);
-        hus.move(amov);
-        HusMove mov1 = new HusMove(22, 1);
-        hus.move(mov1);
-        HusMove mov2 = new HusMove(05, 0);
-        hus.move(mov2);
-        HusMove mov = Jianhua.chooseMove(hus);
-        System.out.println(mov.toPrettyString());
-    	
-//		HusMove mov = new HusMove(9, 0);
-//		hus.move(mov);
-//		HusMove mov1 = new HusMove(21, 1);
-//		hus.move(mov1);
-//		HusMove mov2 = new HusMove(19, 0);
-//		hus.move(mov2);
-////		for (int i = 0; i < 32; i++) {
-////			System.out.println(hus.getPits()[0][i]);
-////		}
-//    	HusMove mov3 = Jianhua.chooseMove(hus);
-//    	System.out.println("movv " + mov3.toPrettyString());
-//    	hus.move(mov3);
-//    	HusMove mov4 = Jianhua.chooseMove(hus);
-//    	System.out.println("movv " + mov4.toPrettyString());
-//    	hus.move(mov4);
-//    	HusMove mov5 = Jianhua.chooseMove(hus);
-//    	hus.move(mov5);
-//    	System.out.println("movv " + mov5.toPrettyString());
-//    	HusMove mov6 = Jianhua.chooseMove(hus);
-//    	hus.move(mov6);
-//    	System.out.println("movv " + mov6.toPrettyString());
-//    	HusMove mov7 = Jianhua.chooseMove(hus);
-//    	hus.move(mov7);
-//    	System.out.println("movv " + mov7.toPrettyString());
-    }
-    
-
 }
 
 

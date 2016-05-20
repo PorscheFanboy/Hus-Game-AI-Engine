@@ -218,7 +218,6 @@ public class AlphaBetaOptimized extends HusPlayer {
             service.shutdownNow();
         }
 
-        // Return the best move found
         return resultStore[0];
     }
 }
