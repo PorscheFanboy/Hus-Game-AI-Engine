@@ -1,0 +1,12 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 1807
+# Board class: hus.HusBoard
+# Timeout: 8000
+# First Move Timeout: 30000
+# Date: Wed May 04 09:15:53 EDT 2016
+# Player 1: Player-0, 'NegaMax', running on 192.168.0.100
+# Player 2: Player-1, '260351181', running on 192.168.0.100
+START Player-0 NegaMax
+START Player-1 260351181
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Wed May 04 09:15:55 EDT 2016

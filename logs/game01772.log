@@ -1,0 +1,36 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 1772
+# Board class: hus.HusBoard
+# Timeout: 8000
+# First Move Timeout: 30000
+# Date: Sat Apr 30 20:24:19 EDT 2016
+# Player 1: Player-0, '260351181', running on 192.168.0.100
+# Player 2: Player-1, 'MCTS', running on 192.168.0.100
+START Player-0 260351181
+START Player-1 MCTS
+PIT 0 23
+PIT 1 6
+PIT 0 19
+PIT 1 15
+PIT 0 7
+PIT 1 9
+PIT 0 1
+PIT 1 23
+PIT 0 17
+PIT 1 19
+PIT 0 11
+PIT 1 20
+PIT 0 26
+PIT 1 21
+PIT 0 19
+PIT 1 29
+PIT 0 31
+PIT 1 18
+PIT 0 28
+PIT 1 31
+PIT 0 29
+PIT 1 13
+PIT 0 2
+PIT 1 9
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Sat Apr 30 20:25:02 EDT 2016

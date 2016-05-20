@@ -1,0 +1,33 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 1475
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Tue Apr 05 21:14:17 EDT 2016
+# Player 1: Player-0, 'Test1', running on localhost
+# Player 2: Player-1, 'WeightTest8', running on localhost
+START Player-0 Test1
+START Player-1 WeightTest8
+PIT 0 23
+PIT 1 22
+PIT 0 4
+PIT 1 7
+PIT 0 25
+PIT 1 3
+PIT 0 16
+PIT 1 6
+PIT 0 20
+PIT 1 22
+PIT 0 11
+PIT 1 18
+PIT 0 28
+PIT 1 23
+PIT 0 10
+PIT 1 27
+PIT 0 23
+PIT 1 16
+PIT 0 18
+PIT 1 15
+PIT 0 24
+PIT 1 24
+PIT 0 31

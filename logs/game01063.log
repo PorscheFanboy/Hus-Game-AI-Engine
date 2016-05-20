@@ -1,0 +1,15 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 1063
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Tue Mar 15 14:51:55 EDT 2016
+# Player 1: Player-0, 'WeightTest6', running on localhost
+# Player 2: Player-1, 'JianHua-test', running on localhost
+START Player-0 WeightTest6
+START Player-1 JianHua-test
+PIT 0 18
+PIT 1 20
+PIT 0 7
+GAMEOVER TIMEOUT WINNER 0
+# Game ended: Tue Mar 15 14:52:05 EDT 2016

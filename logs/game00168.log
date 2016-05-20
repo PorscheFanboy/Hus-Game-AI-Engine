@@ -1,0 +1,12 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 168
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Fri Feb 19 22:25:37 EST 2016
+# Player 1: Player-0, 'JianHua-AlphaBeta', running on localhost
+# Player 2: Player-1, 'JianHua-MiniMax', running on localhost
+START Player-0 JianHua-AlphaBeta
+START Player-1 JianHua-MiniMax
+GAMEOVER TIMEOUT WINNER 1
+# Game ended: Fri Feb 19 22:26:11 EST 2016

@@ -1,0 +1,38 @@
+# Server version 0.08 running on asavpn232179.vpn.mcgill.ca:8123
+# Game ID: 394
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Fri Feb 26 23:51:00 EST 2016
+# Player 1: Player-0, 'WeightTest1', running on localhost
+# Player 2: Player-1, 'JianHua-test', running on localhost
+START Player-0 WeightTest1
+START Player-1 JianHua-test
+PIT 0 0
+PIT 1 1
+PIT 0 1
+PIT 1 20
+PIT 0 12
+PIT 1 19
+PIT 0 10
+PIT 1 13
+PIT 0 17
+PIT 1 26
+PIT 0 14
+PIT 1 6
+PIT 0 3
+PIT 1 5
+PIT 0 5
+PIT 1 21
+PIT 0 6
+PIT 1 1
+PIT 0 12
+PIT 1 24
+PIT 0 16
+PIT 1 12
+PIT 0 15
+PIT 1 18
+PIT 0 19
+PIT 1 24
+GAMEOVER WINNER 1
+# Game ended: Fri Feb 26 23:51:01 EST 2016

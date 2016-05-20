@@ -1,0 +1,15 @@
+# Server version 0.08 running on wpa151102.wireless.mcgill.ca:8123
+# Game ID: 1128
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Mon Mar 21 11:50:54 EDT 2016
+# Player 1: Player-0, 'WeightTest6', running on localhost
+# Player 2: Player-1, '260351181', running on localhost
+START Player-0 WeightTest6
+START Player-1 260351181
+PIT 0 22
+PIT 1 22
+PIT 0 3
+GAMEOVER TIMEOUT WINNER 0
+# Game ended: Mon Mar 21 11:51:17 EDT 2016

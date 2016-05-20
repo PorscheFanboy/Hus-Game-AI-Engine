@@ -1,0 +1,12 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 1758
+# Board class: hus.HusBoard
+# Timeout: 8000
+# First Move Timeout: 30000
+# Date: Tue Apr 26 22:32:34 EDT 2016
+# Player 1: Player-0, 'JianHua-AlphaBeta', running on 192.168.0.100
+# Player 2: Player-1, '260351181', running on 192.168.0.100
+START Player-0 JianHua-AlphaBeta
+START Player-1 260351181
+GAMEOVER TIMEOUT WINNER 1
+# Game ended: Tue Apr 26 22:33:08 EDT 2016

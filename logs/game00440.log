@@ -1,0 +1,24 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 440
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Sun Feb 28 21:13:59 EST 2016
+# Player 1: Player-0, 'Human', running on 192.168.0.100
+# Player 2: Player-1, 'Human', running on 192.168.0.100
+START Player-0 Human
+START Player-1 Human
+PIT 0 19
+PIT 1 21
+PIT 0 23
+PIT 1 20
+PIT 0 24
+PIT 1 19
+PIT 0 26
+PIT 1 13
+PIT 0 12
+PIT 1 26
+PIT 0 13
+PIT 1 16
+PIT 0 20
+PIT 1 23

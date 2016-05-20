@@ -1,0 +1,14 @@
+# Server version 0.08 running on asavpn23444.vpn.mcgill.ca:8123
+# Game ID: 44
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Feb 17 20:06:37 EST 2016
+# Player 1: Player-0, 'JianHua', running on localhost
+# Player 2: Player-1, 'RandomHusPlayer', running on localhost
+START Player-0 JianHua
+START Player-1 RandomHusPlayer
+PIT 0 19
+PIT 1 2
+GAMEOVER ILLEGAL MOVE: Player 0 plays pit 24 WINNER 1
+# Game ended: Wed Feb 17 20:06:37 EST 2016

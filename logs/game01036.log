@@ -1,0 +1,52 @@
+# Server version 0.08 running on wpa079052.wireless.mcgill.ca:8123
+# Game ID: 1036
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Mon Mar 07 12:55:23 EST 2016
+# Player 1: Player-0, 'RandomHusPlayer', running on wpa079052.wireless.mcgill.ca
+# Player 2: Player-1, 'JianHua-test', running on wpa079052.wireless.mcgill.ca
+START Player-0 RandomHusPlayer
+START Player-1 JianHua-test
+PIT 0 16
+PIT 1 22
+PIT 0 15
+PIT 1 21
+PIT 0 1
+PIT 1 20
+PIT 0 13
+PIT 1 24
+PIT 0 0
+PIT 1 17
+PIT 0 21
+PIT 1 16
+PIT 0 19
+PIT 1 30
+PIT 0 5
+PIT 1 22
+PIT 0 15
+PIT 1 21
+PIT 0 4
+PIT 1 1
+PIT 0 6
+PIT 1 18
+PIT 0 9
+PIT 1 17
+PIT 0 7
+PIT 1 30
+PIT 0 8
+PIT 1 8
+PIT 0 11
+PIT 1 19
+PIT 0 9
+PIT 1 31
+PIT 0 12
+PIT 1 24
+PIT 0 15
+PIT 1 20
+PIT 0 16
+PIT 1 27
+PIT 0 17
+PIT 1 21
+GAMEOVER WINNER 1
+# Game ended: Mon Mar 07 12:55:24 EST 2016

@@ -1,0 +1,27 @@
+# Server version 0.08 running on 192.168.0.101:8123
+# Game ID: 1109
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Sun Mar 20 15:16:59 EDT 2016
+# Player 1: Player-0, 'JianHua-MiniMax', running on localhost
+# Player 2: Player-1, 'JianHua1', running on localhost
+START Player-0 JianHua-MiniMax
+START Player-1 JianHua1
+PIT 0 0
+PIT 1 11
+PIT 0 7
+PIT 1 20
+PIT 0 9
+PIT 1 14
+PIT 0 19
+PIT 1 17
+PIT 0 14
+PIT 1 20
+PIT 0 14
+PIT 1 22
+PIT 0 16
+PIT 1 21
+PIT 0 13
+GAMEOVER WINNER 0
+# Game ended: Sun Mar 20 15:16:59 EDT 2016

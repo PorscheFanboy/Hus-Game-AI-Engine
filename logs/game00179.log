@@ -1,0 +1,33 @@
+# Server version 0.08 running on asavpn23587.vpn.mcgill.ca:8123
+# Game ID: 179
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Fri Feb 19 22:31:06 EST 2016
+# Player 1: Player-0, 'JianHua-AlphaBeta', running on asavpn23587.vpn.mcgill.ca
+# Player 2: Player-1, 'RandomHusPlayer', running on asavpn23587.vpn.mcgill.ca
+START Player-0 JianHua-AlphaBeta
+START Player-1 RandomHusPlayer
+PIT 0 6
+PIT 1 8
+PIT 0 5
+PIT 1 6
+PIT 0 21
+PIT 1 4
+PIT 0 15
+PIT 1 0
+PIT 0 27
+PIT 1 1
+PIT 0 13
+PIT 1 17
+PIT 0 6
+PIT 1 14
+PIT 0 12
+PIT 1 25
+PIT 0 24
+PIT 1 27
+PIT 0 14
+PIT 1 18
+PIT 0 19
+GAMEOVER WINNER 0
+# Game ended: Fri Feb 19 22:31:12 EST 2016

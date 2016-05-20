@@ -1,0 +1,15 @@
+# Server version 0.08 running on asavpn23599.vpn.mcgill.ca:8123
+# Game ID: 1842
+# Board class: hus.HusBoard
+# Timeout: 8000
+# First Move Timeout: 30000
+# Date: Mon May 16 21:20:39 EDT 2016
+# Player 1: Player-0, '260351181', running on asavpn23599.vpn.mcgill.ca
+# Player 2: Player-1, 'NegaMaxID', running on asavpn23599.vpn.mcgill.ca
+START Player-0 260351181
+START Player-1 NegaMaxID
+PIT 0 23
+PIT 1 20
+PIT 0 2
+GAMEOVER TIMEOUT WINNER 0
+# Game ended: Mon May 16 21:20:51 EDT 2016

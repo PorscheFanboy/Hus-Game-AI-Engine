@@ -1,0 +1,44 @@
+# Server version 0.08 running on wpa079042.wireless.mcgill.ca:8123
+# Game ID: 129
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Fri Feb 19 12:36:46 EST 2016
+# Player 1: Player-0, 'JianHua-AlphaBeta', running on localhost
+# Player 2: Player-1, 'JianHua-MiniMax', running on localhost
+START Player-0 JianHua-AlphaBeta
+START Player-1 JianHua-MiniMax
+PIT 0 6
+PIT 1 6
+PIT 0 21
+PIT 1 15
+PIT 0 19
+PIT 1 16
+PIT 0 15
+PIT 1 20
+PIT 0 20
+PIT 1 1
+PIT 0 13
+PIT 1 24
+PIT 0 23
+PIT 1 19
+PIT 0 24
+PIT 1 23
+PIT 0 25
+PIT 1 11
+PIT 0 26
+PIT 1 16
+PIT 0 21
+PIT 1 0
+PIT 0 7
+PIT 1 8
+PIT 0 27
+PIT 1 12
+PIT 0 0
+PIT 1 17
+PIT 0 1
+PIT 1 6
+PIT 0 2
+PIT 1 21
+GAMEOVER WINNER 1
+# Game ended: Fri Feb 19 12:36:52 EST 2016

@@ -1,0 +1,41 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 1774
+# Board class: hus.HusBoard
+# Timeout: 8000
+# First Move Timeout: 30000
+# Date: Sat Apr 30 20:30:19 EDT 2016
+# Player 1: Player-0, 'JianHua-AlphaBeta', running on 192.168.0.100
+# Player 2: Player-1, 'AlphaBeta', running on 192.168.0.100
+START Player-0 JianHua-AlphaBeta
+START Player-1 AlphaBeta
+PIT 0 0
+PIT 1 3
+PIT 0 22
+PIT 1 1
+PIT 0 18
+PIT 1 2
+PIT 0 3
+PIT 1 13
+PIT 0 12
+PIT 1 4
+PIT 0 29
+PIT 1 7
+PIT 0 19
+PIT 1 8
+PIT 0 27
+PIT 1 11
+PIT 0 3
+PIT 1 12
+PIT 0 15
+PIT 1 0
+PIT 0 0
+PIT 1 5
+PIT 0 1
+PIT 1 9
+PIT 0 8
+PIT 1 3
+PIT 0 4
+PIT 1 6
+PIT 0 21
+GAMEOVER WINNER 0
+# Game ended: Sat Apr 30 20:30:23 EDT 2016

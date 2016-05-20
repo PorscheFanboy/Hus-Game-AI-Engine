@@ -1,0 +1,60 @@
+# Server version 0.08 running on 192.168.0.100:8123
+# Game ID: 442
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Sun Feb 28 21:26:39 EST 2016
+# Player 1: Player-0, 'WeightTest1', running on localhost
+# Player 2: Player-1, 'JianHua-test', running on localhost
+START Player-0 WeightTest1
+START Player-1 JianHua-test
+PIT 0 0
+PIT 1 20
+PIT 0 7
+PIT 1 1
+PIT 0 13
+PIT 1 21
+PIT 0 15
+PIT 1 8
+PIT 0 18
+PIT 1 17
+PIT 0 22
+PIT 1 24
+PIT 0 21
+PIT 1 16
+PIT 0 24
+PIT 1 20
+PIT 0 23
+PIT 1 14
+PIT 0 28
+PIT 1 4
+PIT 0 29
+PIT 1 0
+PIT 0 2
+PIT 1 19
+PIT 0 5
+PIT 1 23
+PIT 0 7
+PIT 1 0
+PIT 0 9
+PIT 1 17
+PIT 0 3
+PIT 1 25
+PIT 0 6
+PIT 1 27
+PIT 0 14
+PIT 1 2
+PIT 0 11
+PIT 1 8
+PIT 0 7
+PIT 1 5
+PIT 0 12
+PIT 1 2
+PIT 0 8
+PIT 1 4
+PIT 0 11
+PIT 1 28
+PIT 0 12
+PIT 1 16
+GAMEOVER WINNER 1
+# Game ended: Sun Feb 28 21:26:41 EST 2016

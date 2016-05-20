@@ -1,0 +1,17 @@
+# Server version 0.08 running on wpa078252.wireless.mcgill.ca:8123
+# Game ID: 1522
+# Board class: hus.HusBoard
+# Timeout: 8000
+# First Move Timeout: 30000
+# Date: Wed Apr 06 13:34:16 EDT 2016
+# Player 1: Player-0, 'WeightTest8', running on wpa078252.wireless.mcgill.ca
+# Player 2: Player-1, 'Test1', running on wpa078252.wireless.mcgill.ca
+START Player-0 WeightTest8
+START Player-1 Test1
+PIT 0 23
+PIT 1 20
+PIT 0 22
+PIT 1 7
+PIT 0 4
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Wed Apr 06 13:34:19 EDT 2016

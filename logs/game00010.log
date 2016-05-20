@@ -1,0 +1,13 @@
+# Server version 0.08 running on asavpn23484.vpn.mcgill.ca:8123
+# Game ID: 10
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Sun Feb 07 23:13:32 EST 2016
+# Player 1: Player-0, 'Human', running on asavpn23484.vpn.mcgill.ca
+# Player 2: Player-1, 'Human', running on asavpn23484.vpn.mcgill.ca
+START Player-0 Human
+START Player-1 Human
+PIT 0 9
+PIT 1 21
+PIT 0 19

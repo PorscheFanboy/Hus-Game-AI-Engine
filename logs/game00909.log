@@ -1,0 +1,32 @@
+# Server version 0.08 running on asavpn232167.vpn.mcgill.ca:8123
+# Game ID: 909
+# Board class: hus.HusBoard
+# Timeout: 6000
+# First Move Timeout: 30000
+# Date: Fri Mar 04 22:56:57 EST 2016
+# Player 1: Player-0, 'IterativeDeepening', running on localhost
+# Player 2: Player-1, 'JianHua-AlphaBeta', running on localhost
+START Player-0 IterativeDeepening
+START Player-1 JianHua-AlphaBeta
+PIT 0 0
+PIT 1 20
+PIT 0 1
+PIT 1 4
+PIT 0 3
+PIT 1 19
+PIT 0 9
+PIT 1 27
+PIT 0 10
+PIT 1 29
+PIT 0 11
+PIT 1 21
+PIT 0 12
+PIT 1 10
+PIT 0 14
+PIT 1 23
+PIT 0 17
+PIT 1 13
+PIT 0 22
+PIT 1 11
+GAMEOVER WINNER 1
+# Game ended: Fri Mar 04 22:57:03 EST 2016

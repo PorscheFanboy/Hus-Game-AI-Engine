@@ -1,0 +1,47 @@
+# Server version 0.08 running on 192.168.0.101:8123
+# Game ID: 99
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Thu Feb 18 21:56:48 EST 2016
+# Player 1: Player-0, 'JianHua', running on 192.168.0.101
+# Player 2: Player-1, 'RandomHusPlayer', running on 192.168.0.101
+START Player-0 JianHua
+START Player-1 RandomHusPlayer
+PIT 0 0
+PIT 1 14
+PIT 0 7
+PIT 1 0
+PIT 0 9
+PIT 1 23
+PIT 0 14
+PIT 1 15
+PIT 0 3
+PIT 1 18
+PIT 0 21
+PIT 1 13
+PIT 0 23
+PIT 1 1
+PIT 0 0
+PIT 1 3
+PIT 0 15
+PIT 1 8
+PIT 0 1
+PIT 1 5
+PIT 0 2
+PIT 1 9
+PIT 0 0
+PIT 1 6
+PIT 0 4
+PIT 1 7
+PIT 0 5
+PIT 1 8
+PIT 0 0
+PIT 1 12
+PIT 0 6
+PIT 1 13
+PIT 0 0
+PIT 1 14
+PIT 0 15
+GAMEOVER WINNER 0
+# Game ended: Thu Feb 18 21:56:48 EST 2016
