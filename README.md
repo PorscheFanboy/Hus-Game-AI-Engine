@@ -1,4 +1,4 @@
-# HusGameEngine
+# Hus Game AI Engine
 AI class project at McGill, read project_specification.pdf to know more about the game, you can also play the game using "ant gui". 
 
 My program won the class tournament, it came out first out of 185 students, won 360 out of 370 games.
