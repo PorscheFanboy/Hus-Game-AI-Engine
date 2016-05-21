@@ -48,7 +48,6 @@ public class MiniMax extends HusPlayer {
                 cloned_board_state.move(i);
             
                 int result = MiniMax(cloned_board_state, depth - 1, resultStorage, turn);
-                if (depth == original_depth) System.out.println(i.toPrettyString() + " result " + result);
                 if (result > best_value) {
                 	best_value = result;
                 	if (depth == original_depth) resultStorage[0] = i;

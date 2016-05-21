@@ -1,0 +1,2 @@
+1,MiniMax,AlphaBetaOptimized,1,AlphaBetaOptimized,43,game00001.log,
+2,AlphaBetaOptimized,MiniMax,0,AlphaBetaOptimized,38,game00002.log,
