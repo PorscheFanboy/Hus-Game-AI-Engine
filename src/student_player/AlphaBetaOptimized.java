@@ -82,7 +82,9 @@ public class AlphaBetaOptimized extends HusPlayer {
             queue = new PriorityQueue<tupleStateMoveValue>(32, comp);
             for (HusMove hm: moves) {
                 HusBoardState cloned_board_state = (HusBoardState) bState.clone();
-                cloned_board_state.move(hm);
+                boolean b = cloned_board_state.move(hm);
+                // infinite move, not considering it
+                if (!b) continue;
                 int ev = eval(cloned_board_state, turn);
                 tupleStateMoveValue tsmv = new tupleStateMoveValue(cloned_board_state, hm, ev);
                 queue.add(tsmv);
@@ -108,7 +110,9 @@ public class AlphaBetaOptimized extends HusPlayer {
             ArrayList<HusMove> moves = bState.getLegalMoves();
             for (HusMove hm : moves) {
                 HusBoardState cloned_board_state = (HusBoardState) bState.clone();
-                cloned_board_state.move(hm);
+                boolean b = cloned_board_state.move(hm);
+                // infinite move, do not consider it
+                if (!b) continue;
                 int score = -AlphaBeta(cloned_board_state, depth - 1, -beta, -alpha, resultStorage, turn, originalDepth, -color);
                 if (score >= beta) {
                     return score;
